@@ -102,7 +102,6 @@ textarea:focus {
 }
 
 
-
 @media screen and (min-width: 1024px){
     .contato{
         display: flex;
@@ -120,7 +119,6 @@ textarea:focus {
         font-size: 30px;
         font-weight: 700;
     }
-
     .mensagem-positivo{
         display: flex;
         justify-content: end;
